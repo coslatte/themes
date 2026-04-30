@@ -1,0 +1,30 @@
+name: cosmic
+accent: '#48CAE4'
+cursor: '#F15BB5'
+background: '#040710'
+foreground: '#EAEFFF'
+details: darker
+
+background_image:
+  path: cosmic.jpg
+  opacity: 5
+
+terminal_colors:
+  bright:
+    black: '#253245'
+    blue: '#5C9EED'
+    cyan: '#90E0EF'
+    green: '#4EE3B8'
+    magenta: '#FF85CB'
+    red: '#FF6B6B'
+    white: '#FFFFFF'
+    yellow: '#FFD166'
+  normal:
+    black: '#0D1526'
+    blue: '#1E5A99'
+    cyan: '#00B4D8'
+    green: '#2A9D8F'
+    magenta: '#D9428A'
+    red: '#E63946'
+    white: '#CBD5E1'
+    yellow: '#E9C46A'
