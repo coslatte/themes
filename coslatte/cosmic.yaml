@@ -1,13 +1,9 @@
 name: cosmic
-accent: '#48CAE4'
-cursor: '#F15BB5'
+accent: '#bb4452'
+cursor: '#3db677'
 background: '#040710'
 foreground: '#EAEFFF'
 details: darker
-
-background_image:
-  path: cosmic.jpg
-  opacity: 5
 
 terminal_colors:
   bright:
